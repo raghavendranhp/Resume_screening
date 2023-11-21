@@ -33,16 +33,11 @@ The dataset (`UpdatedResumeDataSet.csv`) contains resumes along with their respe
    ```
 
 2. Install dependencies:
-   
-
 3. Run the Jupyter Notebook:
-   
-
 4. Follow the instructions in the notebook to execute code cells and explore the project.
 
 ## Results
 The project achieves [mention accuracy or any other relevant metrics] on the test set. The model has been trained using [algorithm] and exhibits robust performance in categorizing resumes.
-
 
 ## Contributing
 I welcome contributions! If you have suggestions, improvements, or new features to add, please fork the repository and submit a pull request.
